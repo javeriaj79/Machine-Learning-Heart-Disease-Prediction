@@ -36,7 +36,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 4. Run the script using a Python environment or a Jupyter Notebook.
    
 ## Dataset Description :
-The dataset used in this project is the Heart Disease dataset. It contains information on various health metrics, such as age, sex, cholesterol levels, blood pressure, and glucose levels, to predict the likelihood of developing coronary heart disease.
+The dataset used in this project is the Heart Disease dataset. It contains information on various health metrics, such as age, cholesterol levels, blood pressure, and glucose levels, to predict the likelihood of developing coronary heart disease.
 
 ## Data Preprocessing :
 - The dataset is read using `pandas` and unnecessary columns (like 'education') are dropped.
