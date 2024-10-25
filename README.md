@@ -45,7 +45,8 @@ The dataset used in this project is the Heart Disease dataset. It contains infor
 - Feature scaling is performed using `StandardScaler` for normalization.
 
 ## Model Training and Evaluation :
-A function `train_evaluate_and_plot` is defined to train each model, calculate training and testing accuracy, and plot the confusion matrix. The following models are evaluated:
+A function `train_evaluate_and_plot` is defined to train each model.
+The following models are evaluated:
 - Logistic Regression
 - Naive Bayes
 - K-Nearest Neighbors (KNN)
