@@ -1,4 +1,4 @@
-# Machine-Learning-Heart-Disease-Prediction 
+# Machine Learning Heart Disease Prediction 
 
 ## Table of Contents
 1. [Introduction](#introduction)
